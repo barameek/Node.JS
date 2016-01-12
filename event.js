@@ -1,3 +1,5 @@
+// node event.js
+
 // Import events module
 var events = require('events');
 // Create an eventEmitter object
