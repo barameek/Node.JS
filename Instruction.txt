@@ -1,0 +1,8 @@
+=== Installing Modules using npm ===
+install a famous Node.js web framework module called express:
+
+$ npm install express
+
+Now you can use this module in your js file as following:
+var express = require('express');
+
