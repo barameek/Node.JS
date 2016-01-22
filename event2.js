@@ -1,3 +1,5 @@
+// node event2.js
+
 var events = require('events');
 var eventEmitter = new events.EventEmitter();
 
